@@ -137,6 +137,15 @@ body{
     width: 100%;
 }
 
+/*col left and right*/
+.col-left{
+    width: 100%;
+}
+
+.col-right{
+    width: 100%;
+}
+
 
 /*height class*/
 .height-xl {
@@ -398,7 +407,7 @@ body{
     background-color: #61082B;
 }
 .bg-violet{
-    background-color: #0093CE;
+    background-color: #9792E4;
 }
 .bg-white{
     background-color: white;
@@ -418,3 +427,11 @@ body{
 .align-middle{
     vertical-align: middle;
 } 
+
+
+/*square*/
+
+.square{
+    width: 90%;
+    background-color: white;
+}
