@@ -6,6 +6,7 @@
 */
 /* tablet */
 @media screen and (min-width: 768px){
+    /*explanation of the service (first section)*/
 
     .container .row .col-feature {
         width: calc(100% / 3 - 15px); 
@@ -14,6 +15,21 @@
     .container .row .col-feature:first-child {
         width: calc((66.666% - 15px) + 10px);
     }
+
+    /* strategic planning */
+    /*--------------------*/
+
+    /*testimonials*/
+    .container .testimonial-card{
+        display: flex;
+    }
+
+    /* benefits of working with us */
+    .container .row .col-numbered{
+        width: calc(100% / 2 - 15px);
+    }
+
+
 }
 
 /* dekstop */

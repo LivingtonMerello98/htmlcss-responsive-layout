@@ -6,3 +6,17 @@
 .f-grow-2{
     flex-grow: 2;
 }
+
+/*col left and right*/
+.col-left{
+    width: 100%;
+}
+
+.col-right{
+    width: 100%;
+}
+
+/* col numbered */
+.col-numbered{
+    width: 100%;
+}

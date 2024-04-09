@@ -177,7 +177,7 @@ body{
 }
 
 .height-m {
-    height: 100px;
+    height: 200px;
 }
 
 .height-sm {
@@ -452,6 +452,7 @@ body{
 /*square*/
 
 .square{
-    width: 90%;
-    background-color: white;
+    width: 40%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
 }
