@@ -220,3 +220,48 @@
 .mb-60 {
     margin-bottom: 60px;
 }
+
+/*ml mr classes*/
+.ml-10{
+    margin-left: 10px;
+}
+.ml-20{
+    margin-left: 20px;
+}
+.ml-30{
+    margin-left: 30px;
+}
+.ml-40{
+    margin-left: 40px;
+}
+.ml-50{
+    margin-left: 50px;
+}
+
+.mr-10{
+    margin-right: 10px;
+}
+.mr-20{
+    margin-right: 20px;
+}
+.mr-30{
+    margin-right: 30px;
+}
+.mr-40{
+    margin-right: 40px;
+}
+.mr-50{
+    margin-right: 50px;
+}
+.mr-60{
+    margin-right: 60px;
+}
+.mr-70{
+    margin-right: 70px;
+}
+.mr-80{
+    margin-right: 80px;
+}
+.mr-90{
+    margin-right: 90px;
+}
