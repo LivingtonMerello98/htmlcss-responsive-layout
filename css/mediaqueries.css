@@ -5,11 +5,18 @@
 }
 */
 /* tablet */
-@media screen and(min-width: 768px){
+@media screen and (min-width: 768px){
 
+    .container .row .col-feature {
+        width: calc(100% / 3 - 15px); 
+    }
+
+    .container .row .col-feature:first-child {
+        width: calc((66.666% - 15px) + 10px);
+    }
 }
 
 /* dekstop */
-@media screen and(min-width: 1024px){
+@media screen and (min-width: 1024px){
     
 }
