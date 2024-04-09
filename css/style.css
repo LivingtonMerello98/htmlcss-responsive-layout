@@ -124,3 +124,54 @@
 .py-80 {
     padding: 80px 0px;
 }
+
+/*combined class*/
+.pxy-60-30{
+    padding: 60px 30px;
+}
+
+
+/*mx my class*/
+.mx-5 {
+    margin: 0px 5px;
+}
+.mx-10 {
+    margin: 0px 10px;
+}
+.mx-20 {
+    margin: 0px 20px;
+}
+.mx-40 {
+    margin: 0px 40px;
+}
+.mx-60 {
+    margin: 0px 60px;
+}
+.mx-140 {
+    margin: 0px 140px;
+}
+
+.my-5 {
+    margin: 5px 0px;
+}
+.my-10 {
+    margin: 10px 0px;
+}
+.my-20 {
+    margin: 20px 0px;
+}
+.my-30 {
+    margin: 30px 0px;
+}
+.my-40 {
+    margin: 40px 0px;
+}
+.my-50 {
+    margin: 50px 0px;
+}
+.my-60 {
+    margin: 60px 0px;
+}
+.my-80 {
+    margin: 80px 0px;
+}
