@@ -34,6 +34,9 @@ body{
 /*flex*/
 .d-flex{
     display: flex;
+}
+
+.f-wrap{
     flex-wrap: wrap;
 }
 
@@ -355,10 +358,10 @@ body{
     background-color: red;
 }
 .bg-blue{
-    background-color: #0D2481;
+    background-color: #0084FD
 }
 .bg-light-blue{
-    background-color: lightblue;
+    background-color: B5DDFF;
 }
 .bg-yellow{
     background-color: #FFD830;
