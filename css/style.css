@@ -265,3 +265,65 @@
 .mr-90{
     margin-right: 90px;
 }
+
+/*color class*/
+.bg-red{
+    background-color: red;
+}
+.bg-blue{
+    background-color: #0D2481;
+}
+.bg-light-blue{
+    background-color: lightblue;
+}
+.bg-yellow{
+    background-color: #FFD830;
+}
+.bg-green{
+    background-color: green;
+}
+.bg-silver{
+    background-color: silver;
+}
+.bg-black{
+    background-color: black;
+}
+.bg-violet{
+    background-color: violet;
+}
+.bg-grey{
+    background-color: grey;
+}
+.bg-orange{
+    background-color: orange;
+}
+.bg-brown{
+    background-color: brown;
+}
+.bg-light-green{
+    background-color: #A2D39B;
+}
+.bg-bordeux{
+    background-color: #61082B;
+}
+.bg-violet{
+    background-color: #0093CE;
+}
+.bg-white{
+    background-color: white;
+}
+.bg-soft-grey{
+    background-color: #F5F5F5;
+}
+
+/*margin-border*/
+.mb-border{
+    border-bottom: 1px solid rgba(192, 192, 192, 0.363);
+}
+.mt-border{
+    border-top: 1px solid rgba(192, 192, 192, 0.363);
+}
+/*vertical-align*/
+.align-middle{
+    vertical-align: middle;
+} 
