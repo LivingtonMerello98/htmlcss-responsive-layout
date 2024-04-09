@@ -45,3 +45,37 @@
 .col-100{
     width: 100%;
 }
+
+
+/*height class*/
+.height-xl {
+    height: 500px;
+}
+
+.height-l {
+    height: 300px;
+}
+
+.height-m {
+    height: 100px;
+}
+
+.height-sm {
+    height: 30px;
+}
+
+.width-xl {
+    width: 500px;
+}
+
+.width-l {
+    width: 300px;
+}
+
+.width-m {
+    width: 100px;
+}
+
+.width-sm {
+    width: 30px;
+}
