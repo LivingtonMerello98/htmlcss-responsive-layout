@@ -29,6 +29,10 @@
         width: calc(100% / 2 - 15px);
     }
 
+    /* about us */
+    .container .row .col-text, .col-img{
+        width: 50%;
+    }
 
 }
 
