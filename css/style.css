@@ -6,6 +6,57 @@
 
 /* utility classes*/
 /*layout class*/
+
+/*text size*/
+.fs-text-14{
+    font-size: 14px;;
+}
+
+/*text-align*/
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-left{
+    text-align: left;
+}
+
+/*flex*/
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/*border*/
+.border{
+    border: 1px solid rgba(192, 192, 192, 0.363);
+}
+/*list style*/
+.unstyled-list {
+    list-style-type: none;
+}
+
+.unstyled-list li{
+    display: inline-block;
+}
+
+.unstyled-list li{
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+
+}
+
+/*col*/
 .col-20{
     width: 20%;
 }
