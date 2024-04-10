@@ -20,6 +20,7 @@
 /* col numbered */
 .col-numbered{
     width: 100%;
+    padding: 2rem;
 }
 
 /*col text and img abut us section*/
@@ -151,10 +152,31 @@
     line-height: 2rem;
 }
 
+/* benefits of working with us */
 
+.text-numbered h2{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 36px;
 
+}
+.text-numbered h3{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 
+}
 
+.text-numbered p{
+    line-height: 2rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+
+.text-numbered .btn{
+    border: none;
+    padding:  0.5rem 2rem;
+    border-radius: 30px;
+}
 
 /*logo size and hamburger menu size*/
 

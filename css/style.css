@@ -35,6 +35,9 @@ body{
 .text-white{
     color: white;
 }
+.text-violet{
+    color: #9792E4;
+}
 
 .t-uppercase{
     text-transform:uppercase;
