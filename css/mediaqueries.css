@@ -13,7 +13,7 @@
     }
 
     .container .row .col-feature:first-child {
-        width: calc((66.666% - 15px) + 10px);
+        width: calc((66.666% - 15px));
     }
 
     /* strategic planning */
@@ -39,6 +39,9 @@
 /* dekstop */
 @media screen and (min-width: 1024px){
      /* strategic planning */
+     .container-sm .row{
+        justify-content: flex-end;
+     }
      .container-sm .row .col-left, .col-right{
         width: 50%;
      }
