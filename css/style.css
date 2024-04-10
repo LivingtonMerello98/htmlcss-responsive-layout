@@ -36,6 +36,10 @@ body{
     color: white;
 }
 
+.t-uppercase{
+    text-transform:uppercase;
+}
+
 /*block inline*/
 .d-block{
     display: block;

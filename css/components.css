@@ -101,6 +101,61 @@
     background-color: #9792E4;
 }
 
+/*--------testimonials--------*/
+.text-testimonial h2{
+    color: #9792E4;
+    margin: 1.5rem;
+
+}
+
+.profile-container1 {
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    overflow: hidden; 
+    margin: 0 auto; 
+    background-image: url("../img/testimonial1.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+}
+.profile-container2 {
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    overflow: hidden; 
+    margin: 0 auto; 
+    background-image: url("../img/testimonial2.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+}
+.profile-container3 {
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    overflow: hidden; 
+    margin: 0 auto; 
+    background-image: url("../img/testimonial3.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+}
+
+.testimonial-card{
+    padding: 3rem;
+}
+
+.testimonial-card h3{
+    margin-top: 1rem;
+}
+
+.testimonial-card p{
+    line-height: 2rem;
+}
+
+
+
+
+
+
 /*logo size and hamburger menu size*/
 
 
